@@ -1,0 +1,3 @@
+[submodule "testb"]
+	path = testb
+	url = https://github.com/thomas-mueller/testb
